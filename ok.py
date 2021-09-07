@@ -1,2 +1,1 @@
-# lol new file content
-print("did it work?")
+print("did it update?")
